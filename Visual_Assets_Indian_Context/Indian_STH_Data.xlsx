@@ -1,0 +1,58 @@
+State,District,Prevalence_Ascaris,Prevalence_Trichuris,Prevalence_Hookworm,Total_Population,Children_1_14,Prevalence_Children,Risk_Category
+Bihar,Patna,45.2,38.7,52.1,5800000,1250000,48.5,Very High
+Bihar,Gaya,52.8,42.3,58.9,4600000,980000,55.2,Very High
+Bihar,Muzaffarpur,48.9,35.6,49.8,4800000,1020000,46.8,Very High
+Uttar Pradesh,Lucknow,38.7,32.1,45.6,4580000,950000,42.3,High
+Uttar Pradesh,Kanpur,42.3,28.9,48.7,2920000,620000,45.1,High
+Uttar Pradesh,Varanasi,35.6,25.4,41.2,3680000,780000,38.9,High
+West Bengal,Kolkata,28.9,22.1,35.6,4490000,890000,32.4,Moderate
+West Bengal,Murshidabad,45.6,38.9,52.3,7100000,1520000,48.9,Very High
+West Bengal,24 Parganas,32.1,25.6,38.9,8900000,1890000,35.6,High
+Rajasthan,Jaipur,25.6,18.9,28.7,3070000,650000,26.8,Moderate
+Rajasthan,Jodhpur,32.3,22.4,35.1,3680000,780000,32.1,Moderate
+Rajasthan,Udaipur,38.9,28.7,42.3,3080000,650000,38.9,High
+Madhya Pradesh,Bhopal,22.1,15.6,25.8,2370000,500000,23.4,Moderate
+Madhya Pradesh,Indore,28.7,18.9,32.1,3270000,690000,28.9,Moderate
+Madhya Pradesh,Jabalpur,35.6,25.4,38.9,2460000,520000,35.6,High
+Odisha,Bhubaneswar,18.9,12.3,22.1,886000,187000,19.8,Low
+Odisha,Cuttack,25.4,18.7,28.9,2620000,550000,26.7,Moderate
+Odisha,Sambalpur,32.1,22.8,35.6,1050000,220000,32.1,Moderate
+Jharkhand,Ranchi,42.3,35.6,48.9,2920000,620000,45.6,Very High
+Jharkhand,Dhanbad,38.9,28.7,42.3,2680000,570000,38.9,High
+Jharkhand,Jamshedpur,35.6,25.4,38.7,1340000,280000,35.6,High
+Assam,Guwahati,52.1,45.6,58.9,958000,200000,55.6,Very High
+Assam,Dibrugarh,48.7,38.9,52.3,1320000,280000,48.9,Very High
+Assam,Silchar,45.6,35.6,48.9,1720000,360000,46.7,Very High
+Tamil Nadu,Chennai,15.6,8.9,18.7,4640000,890000,16.7,Low
+Tamil Nadu,Coimbatore,22.3,12.4,25.8,3460000,690000,23.4,Moderate
+Tamil Nadu,Madurai,28.9,18.7,32.1,3180000,640000,28.9,Moderate
+Kerala,Thiruvananthapuram,8.9,4.5,12.3,958000,187000,9.8,Very Low
+Kerala,Kochi,12.3,6.7,15.6,2120000,410000,13.4,Low
+Kerala,Kozhikode,15.6,8.9,18.9,3080000,590000,16.7,Low
+Karnataka,Bengaluru,18.7,10.2,22.1,9580000,1890000,19.8,Low
+Karnataka,Mysuru,25.4,15.6,28.7,2990000,600000,26.7,Moderate
+Karnataka,Hubli,32.1,22.3,35.6,943000,190000,32.1,Moderate
+Andhra Pradesh,Hyderabad,22.1,12.8,25.6,3940000,780000,23.4,Moderate
+Andhra Pradesh,Vishakhapatnam,28.7,18.9,32.1,2030000,410000,28.9,Moderate
+Andhra Pradesh,Vijayawada,35.6,25.4,38.9,1490000,300000,35.6,High
+Telangana,Hyderabad,20.1,11.8,23.6,3940000,780000,21.4,Moderate
+Telangana,Warangal,28.7,18.9,32.1,756000,152000,28.9,Moderate
+Telangana,Karimnagar,35.6,25.4,38.9,3780000,760000,35.6,High
+Maharashtra,Mumbai,15.6,8.9,18.7,12400000,2450000,16.7,Low
+Maharashtra,Pune,22.3,12.4,25.8,3120000,620000,23.4,Moderate
+Maharashtra,Nagpur,28.9,18.7,32.1,2400000,480000,28.9,Moderate
+Gujarat,Ahmedabad,18.7,10.2,22.1,5570000,1120000,19.8,Low
+Gujarat,Surat,25.4,15.6,28.7,4460000,890000,26.7,Moderate
+Gujarat,Vadodara,32.1,22.3,35.6,1670000,330000,32.1,Moderate
+Punjab,Chandigarh,12.3,6.7,15.6,1050000,210000,13.4,Low
+Punjab,Ludhiana,18.9,10.8,22.3,1610000,320000,19.8,Low
+Punjab,Amritsar,25.6,15.4,28.9,1180000,240000,26.7,Moderate
+Haryana,Gurugram,15.6,8.9,18.7,877000,175000,16.7,Low
+Haryana,Faridabad,22.3,12.4,25.8,1410000,280000,23.4,Moderate
+Haryana,Hisar,28.9,18.7,32.1,1740000,350000,28.9,Moderate
+Delhi,New Delhi,12.3,6.7,15.6,16700000,3200000,13.4,Low
+Delhi,North Delhi,15.6,8.9,18.7,883000,177000,16.7,Low
+Delhi,South Delhi,18.9,10.8,22.3,2730000,546000,19.8,Low
+Chhattisgarh,Raipur,38.9,32.1,45.6,1020000,210000,42.3,High
+Chhattisgarh,Bilaspur,42.3,35.6,48.9,2660000,530000,45.6,Very High
+Chhattisgarh,Durg,35.6,28.7,42.1,1660000,330000,38.9,High
