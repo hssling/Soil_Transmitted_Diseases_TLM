@@ -939,6 +939,12 @@ def main():
     if selected == "🏠 Overview":
         st.title("🦟 Soil Transmitted Diseases")
         st.markdown("Interactive Learning Dashboard - MBBS 3rd Year")
+        st.markdown("""
+        **Created by:** Dr. Siddalingaiah H S  
+        Professor, Community Medicine, SIMSRH, Tumkur  
+        Email: hssling@yahoo.com | Phone: 8941087719  
+        *Content generated with AI assistance and ensured medical accuracy*
+        """)
 
         col1, col2, col3, col4 = st.columns(4)
         with col1:

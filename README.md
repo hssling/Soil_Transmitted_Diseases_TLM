@@ -38,8 +38,12 @@ Comprehensive teaching learning material on Soil Transmitted Diseases (STDs), al
 - Generation scripts for automated content creation
 
 ## Authors
-AI-Generated Educational Content
-Supervised by Medical Education Specialists
+**Created by:** Dr. Siddalingaiah H S
+- Professor, Community Medicine, SIMSRH, Tumkur
+- Email: hssling@yahoo.com
+- Phone: 8941087719
+
+*Content generated with AI assistance and ensured medical accuracy*
 
 ## License
 MIT License - See LICENSE file for details
